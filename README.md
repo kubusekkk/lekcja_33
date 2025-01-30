@@ -5,3 +5,6 @@ cos
 kubek
 
 jajko
+
+
+siema
