@@ -2,3 +2,6 @@
 
 prima
 cos
+kubek
+
+jajko
